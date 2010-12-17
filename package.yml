@@ -1,6 +1,7 @@
-name: Lazyloader
+name: MooLazyloader
 author: sppericat
 category: Interface
 tags: [lazyload, UI]
-docs: http://github.com/stephanepericat/Lazyloader/blob/master/README.md
+docs: http://github.com/stephanepericat/MooLazyloader/blob/master/README.md
 demo: http://sppericat.kodingen.com/demos/lazyloader/
+current: 1.0
